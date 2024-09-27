@@ -1,4 +1,4 @@
-# Star Wars Characters App
+# Star Wars App
 
 This app provides details about Star Wars characters, including their Name, Height, and Birth Year, and dynamically renders them in a tabular format.
 
