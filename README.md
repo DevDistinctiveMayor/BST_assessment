@@ -25,4 +25,4 @@ This assessment was a great experience, and I look forward to moving on to the n
 Thank you for the opportunity.
 
 Best regards,
-Ekundayo Mayowa Timileyin.# BST_assessment
+Ekundayo Mayowa Timileyin.
