@@ -20,6 +20,10 @@ Birth Year
 
 I encountered no significant challenges during development since the API worked perfectly when tested on Postman. This made the process smooth and efficient.
 
+# Tailwind CSS
+
+I make use of tailwind css instead of conventional css.
+ 
 This assessment was a great experience, and I look forward to moving on to the next stage of the recruitment process.
 
 Thank you for the opportunity.
