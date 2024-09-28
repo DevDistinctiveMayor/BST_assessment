@@ -37,7 +37,7 @@ function StarWars() {
           <p className="text-white text-[10px] mt-[0.5rem]">Fronted Assessment Test for Ekundayo Mayowa T.</p>
         </nav>
         <div className="p-4 flex justify-center">
-          <div className="sm:w-[30rem]">
+          <div className="sm:w-[30rem] w-[25rem]">
             <input
               type="text"
               placeholder="Search Star Wars characters..."
